@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7838fb71-5e55-46d2-a695-38f174f5e156" name="SunriseTonBot" url="http://69.30.204.175">
+        <fileTransfer rootFolder="/home/administrator" accessType="SFTP" host="69.30.204.175" port="22" sshConfigId="921091ad-5845-42ac-9b7e-1266af774bf5" sshConfig="administrator@69.30.204.175:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
